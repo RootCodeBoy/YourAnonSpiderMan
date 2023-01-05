@@ -1,6 +1,6 @@
 ## Hey, Geek 😎
-   [![trophy](https://github-profile-trophy.vercel.app/?username=SolvingEquations&theme=matrix)
-<p align="center"><a href=https://github.com/SolvingEquations/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api?username=SolvingEquations&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a><a href="https://github.com/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=SolvingEquations&theme=matrix)
+align="center"><a href=https://github.com/SolvingEquations/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api?username=SolvingEquations&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a><a href="https://github.com/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
 
 
 ### Languages
