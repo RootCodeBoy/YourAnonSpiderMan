@@ -9,22 +9,17 @@
 </p>
   
 ### KNOW MORE ABOUT ME>>>>
-<p align="center"><a href=https://github.com/SolvingEquations/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
-
-<p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<p align="center"><a href=https://github.com/SolvingEquations/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api?username=SolvingEquations&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
 <a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
+<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
+<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
+<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?
+username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
 </p>
 
 <p align="center">
