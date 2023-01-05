@@ -13,16 +13,6 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<p align="center">
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
-<a href="https://github.com/SolvingEquations/SolvingEquations"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?
-username=SolvingEquations&repo=SolvingEquations&theme=SolvingEquations"></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/SolvingEquations"><img title="SolvingEquations" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
 </p>
 
